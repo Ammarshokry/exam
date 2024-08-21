@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head ul li{
+    list-style: none;
+
+}  
+
+.head{
+    width: 100%;
+    background-color: #181818;
+    
+}
+
+.navbar button{
+   width: 149px;
+   height: 40px;
+   background-color: #F16650 ;
+   border: 1px solid #F16650;
+   border-radius: 8px;
+   cursor: pointer;
+   color: white;
+}
+
+.head i{
+    display: none;
+}
+
+
+.pimg{
+    padding-top: 20rem;
+}
+
+.bgimg{
+    background-image: url(./27ecb6492af72cccdfb9c7f5226d8ed3.jpeg);
+    width: 100%;
+    height: 806px;
+}
+
+.par{
+    width: 100%;
+    height: 80vh;
+    gap: 40px;
+    background-color: #181818;
+}
+
+.parpre{
+    width: 466px;
+    height: 240px;
+ 
+}
+
+.video{
+    width: 568px;
+    height: 319.11px;
+}
+
+.foot{
+    width: 1116px;
+    height: 101px;
+}
+
+.lorem{
+    width: 100%;
+    height: 892px;
+    background-color: #1F1F1F;
+}
+
+.loremcontent{
+    width: 1114px;
+    height: 739.89px;
+}
+
+.stick{
+    width: 457px;
+    height: 349px;
+}
+
+.event{
+    width: 30%;
+    height: 100%;
+}
+
+.par2{
+    width: 457px;
+    white-space: wrap;
+}
+
+.stick button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+
+.event div{
+    width: 164px;
+    height: 129.87;
+}
+
+.partners{
+    width: 100%;
+    height: 50vh;
+    gap: 30px;
+    background-color: #181818;
+}
+
+.title{
+    width: 994px;
+    height: 135px;
+    background-color: #181818;
+}
+
+.last{
+    width: 100%;
+    height: 902px;
+    padding-top: 4rem;
+    background-color: #1F1F1F;
+}
+
+.last img{
+    width: 455px;
+    height: 422px;
+}
+
+.last button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    margin-top: 4rem;
+}
+
+.ic1{
+    width: 254px;
+    height: 130px;
+    margin-top: 2rem;
+}
+
+.ic1 p{
+    padding-top: 10px;
+}
+
+.ic2{
+    width: 254px;
+    height: 130px;
+    margin-top: 2rem;
+}
+
+.ic2 p{
+    padding-top: 10px;
+}
+
+.ic3{
+    width: 254px;
+    height: 130px;
+}
+
+.ic3 p{
+    padding-top: 10px;
+}
+
+.ic4{
+    width: 254px;
+    height: 130px;
+}
+
+.ic4 p{
+    padding-top: 10px;
+}
+
+.ic5{
+    width: 254px;
+    height: 130px;
+}
+
+.ic5 p{
+    padding-top: 10px;
+}
+
+.ic6{
+    width: 254px;
+    height: 130px;
+}
+
+.ic6 p{
+    padding-top: 10px;
+}
+
+.ic7{
+    width: 254px;
+    height: 130px;
+}
+
+.ic7 p{
+    padding-top: 10px;
+}
+
+.ic8{
+    width: 254px;
+    height: 130px;
+}
+
+.ic8 p{
+    padding-top: 10px;
+    height: 130px;
+}

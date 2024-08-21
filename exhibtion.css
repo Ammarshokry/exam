@@ -1,0 +1,351 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head{
+    background-color: #181818;
+}
+
+.head ul li{
+    list-style: none;
+} 
+
+.navbar button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+
+.bgimg{
+    background-image: url(./bf31fb7c2d26112ad340c7f41f8f8bee.jpeg);
+    width: 100%;
+    height: 656px;
+}
+
+.first{
+    width: 70%;
+    height: 550px;
+}
+
+.title{
+    width: 466px;
+    height: 240px;
+}
+
+.title button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+
+.video{
+    width: 568px;
+    height: 319.11px;
+}
+
+.photos{
+    width: 100%;
+    height: 60vh;
+    background-color: #181818;
+}
+
+.container{
+    width: 75%;
+    height: 80%;
+}
+
+.photo1{
+    width: 359px;
+    height: 468px;
+}
+
+.photo1 img{
+    width: 100%;
+    height: 268px;
+}
+
+.photo2{
+    width: 359px;
+    height: 468px;
+}
+
+.photo2 img{
+    width: 100%;
+    height: 268px;
+}
+
+.photo3{
+    width: 359px;
+    height: 468px;
+}
+
+.photo3 img{
+    width: 100%;
+    height: 268px;
+}
+
+.marqbody{
+    width: 100%;
+    height: 1213px;
+    background-color: #1F1F1F;
+}
+
+.header{
+    width: 994px;
+    height: 139px;
+}
+
+.marquee1{
+    width: 100%;
+    height: 350px;
+}
+
+.marquee1 img{
+    width: 350px;
+    height: 350px;
+}
+
+.marquee2{
+    width: 100%;
+    height: 350px;
+}
+
+.marquee2 img{
+    width: 350px;
+    height: 350px;
+}
+
+.button button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    margin-bottom: 3rem;
+}
+
+.lorem{
+    width: 100%;
+    height: 892px;
+    background-color: #181818;
+}
+
+.loremcontent{
+    width: 1114px;
+    height: 739.89px;
+}
+
+.stick{
+    width: 457px;
+    height: 349px;
+}
+
+.event{
+    width: 30%;
+    height: 100%;
+}
+
+.par2{
+    width: 457px;
+    white-space: wrap;
+}
+
+.stick button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+
+.event div{
+    width: 164px;
+    height: 129.87;
+}
+
+.ic1{
+    width: 254px;
+    height: 130px;
+    margin-top: 2rem;
+}
+
+.ic1 p{
+    padding-top: 10px;
+}
+
+.ic2{
+    width: 254px;
+    height: 130px;
+    margin-top: 2rem;
+}
+
+.ic2 p{
+    padding-top: 10px;
+}
+
+.ic3{
+    width: 254px;
+    height: 130px;
+}
+
+.ic3 p{
+    padding-top: 10px;
+}
+
+.ic4{
+    width: 254px;
+    height: 130px;
+}
+
+.ic4 p{
+    padding-top: 10px;
+}
+
+.ic5{
+    width: 254px;
+    height: 130px;
+}
+
+.ic5 p{
+    padding-top: 10px;
+}
+
+.ic6{
+    width: 254px;
+    height: 130px;
+}
+
+.ic6 p{
+    padding-top: 10px;
+}
+
+.ic7{
+    width: 254px;
+    height: 130px;
+}
+
+.ic7 p{
+    padding-top: 10px;
+}
+
+.ic8{
+    width: 254px;
+    height: 130px;
+}
+
+.ic8 p{
+    padding-top: 10px;
+}
+
+.vidbdy{
+    width: 100%;
+    height: 713px;
+    background-color: #1F1F1F;
+}
+
+.title2{
+    width: 994px;
+    height: 139px;
+}
+
+.videos{
+    width: 70%;
+    height: 300px;
+}
+
+.vidbtn button{
+    color: white;
+    width: 202px;
+    height: 54px;
+    background: transparent;
+    border:1px solid #F16650;
+    border-radius: 4px;
+}
+
+.vidbtn button:hover{
+    background-color: #F16650;
+    transition: 400ms;
+}
+
+.end{
+    width: 100%;
+    height: 40vh;
+    background-color: #181818;
+}
+
+.top{
+    width: 70%;
+    height: 100%;
+}
+
+.top p{
+    width: 436px;
+    height: 88px;
+    white-space: wrap;
+}
+
+.marqend{
+    width: 100%;
+    height: 70vh;
+    background-color: #181818;
+}
+
+.marqbox{
+    width: 488PX;
+    height: 291px;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.marqbox p{
+    white-space: wrap;
+}
+
+.parent{
+    gap: 20px;
+}
+
+.endbox{
+    width: 100%;
+    height: 90vh;
+    background-color: #181818;
+}
+
+.box{
+    width: 1076px;
+    height: 350px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 4px;
+}
+
+.box p{
+    width: 461px;
+    height: 51px;
+    white-space: wrap;
+}
+
+.box button{
+    width: 149px;
+    height: 40px;
+    background-color: white;
+    color: #F16650;
+    text-decoration: none;
+    border: 1px solid #F16650;
+    border-radius: 5px;
+    margin-top: 4rem;
+}

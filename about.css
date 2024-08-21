@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head{
+    background-color: #181818;
+}
+
+.head ul li{
+    list-style: none;
+} 
+
+.navbar button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+
+.bgimg{
+    width: 100%;
+    height: 613px;
+    background-image: url(./bf31fb7c2d26112ad340c7f41f8f8bee.jpeg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 5rem;
+}
+
+.imgpar{
+    width: 551px;
+    height: 300px;
+}
+
+.imgpar h1{
+    width: 521px;
+    height: 126px;
+}
+
+.imgpar p{
+    width: 412px;
+    height: 80px;
+}
+
+.imgpar button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    margin-top: 2rem;
+}
+
+.design{
+    width: 503px;
+    height: 348px;
+    gap: 10px;
+}
+
+.experiencebox{
+    width: 100%;
+    height: 101px;
+    background-color: #181818;
+}
+
+.experience{
+    width: 1116px;
+    height: 101px;
+}
+
+.boxescontainer{
+    width: 100%;
+    height: 80vh;
+    background-color: #181818;
+
+}
+.boxpar{
+    margin-top: 4rem;
+}
+
+.boxpar h2{
+    width: 673px;
+    height: 56px;
+}
+
+.missbox{
+    width: 80%;
+    height: 60%;
+    gap: 40px;
+    margin-top: 2rem;
+}
+
+.mission{
+    width: 528px;
+    height: 215px;
+    border-radius: 4px;
+    gap: 30px;
+}
+
+.mission p{
+    width: 437px;
+    height: 88px;
+}
+
+.misshead{
+    gap: 10px;
+    margin-top: -2.5rem;
+}
+
+.vission{
+    width: 528px;
+    height: 215px;
+    border-radius: 4px;
+    gap: 30px;
+}
+
+.visshead{
+    gap: 10px;
+    margin-top: -2.5rem;
+}
+
+.boxescontainer button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+
+.marqueebox{
+    width: 100%;
+    height: 770px;
+    background-color: #1F1F1F;
+}
+
+.marqpar{
+    width: 70%;
+    height: 30%;
+}
+
+.marqpar h2{
+    width: 326px;
+    height: 104px;
+}
+
+.marqpar p{
+    width: 436px;
+    height: 88px;
+}
+
+.marqparent{
+    gap: 30px;
+}
+
+.marqparent img{
+    width: 274px;
+    height: 391px;
+}
+
+.marqbox2{
+    width: 100%;
+    height: 650px;
+    gap: 50px;
+    background-color: #181818;
+}
+
+.marqbox2par{
+    width: 70%;
+    height: 150px;
+}
+
+.marqbox2par p{
+    width: 436px;
+    height: 88px;
+    white-space: wrap;
+}
+
+.marqbox2par h2{
+    width: 326px;
+    height: 104;
+    white-space: wrap;
+}
+
+.marquee2{
+    width: 100%;
+    height: 400px;
+}
+
+.marquee2cont{
+    width: 488px;
+    height: 256px;
+}
+
+.marqtext{
+    width: 437px;
+    height: 100px;
+    white-space: wrap;
+    font-size: 16px;
+}
+
+.marqflex{
+    gap: 20px;
+}
+
+.marquee3{
+    width: 100%;
+    height: 902px;
+    padding-top: 4rem;
+    background-color: #1F1F1F;
+}
+
+.marquee3 img{
+    width: 455px;
+    height: 422px;
+}
+
+.marquee3 button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    margin-top: 4rem;
+}
+
+.endbox{
+    width: 100%;
+    height: 70vh;
+    background-color: #181818;
+}
+
+.endboxcont{
+    width: 954px;
+    height: 292px;
+    background-color: #F16650;
+}
+
+.endimg{
+    width: 395px;
+    height: 395px;
+    margin-top: -6rem;
+}
+
+.endimg img{
+    width: 100%;
+    height: 100%;
+}
+
+.endtext{
+    width: 456px;
+    height: 211px;
+}
+
+.text1{
+    width: 313px;
+    height: 41px;
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.text2{
+    width: 456px;
+    height: 88px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.text3{
+    font-size: 38px;
+    font-weight: 400;
+    text-align: end;
+}

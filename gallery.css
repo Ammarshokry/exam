@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #181818;
+}
+
+.head{
+    background-color: #181818;
+}
+
+.head ul li{
+    list-style: none;
+} 
+
+.navbar button{
+    width: 149px;
+    height: 40px;
+    background-color: #F16650;
+    border: 1px solid #F16650;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+
+.bgimg{
+    width: 100%;
+    height: 729px;
+    background-image: url(./bf31fb7c2d26112ad340c7f41f8f8bee.jpeg);
+}
+
+.header{
+    width: 994px;
+    height: 139px;
+}
+
+.header p{
+    width: 720px;
+    height: 44px;
+    white-space: wrap;
+}
+
+.marq{
+    width: 100%;
+    height: auto;
+    gap: 30px;
+    background-color: #181818;
+}
+
+.marquee{
+    width: 100%;
+    height: 350px;
+}
+
+.marquee img{
+    width: 350px;
+    height: 350px;
+}
+
+.experience{
+    width: 1116px;
+    height: 101px;
+}
+
+.rectangle{
+    width: 100%;
+    height: 1838px;
+    background-color: #1F1F1F;
+}
+
+.toprectangle{
+    width: 80%;
+    height: 20vh;
+}
+
+.box1{
+    width: 326px;
+    height: 104px;
+    white-space: wrap;
+}
+
+.box2{
+    width: 393px;
+    height: 80px;
+}
+
+.btn1{
+    width: 83px;
+    height: 40px;
+    background-color: #F16650;
+    color: white;
+    border: 1px solid #F16650;
+    border-radius: 4px;
+}
+
+.btn2{
+    width: 116px;
+    height: 40px;
+}
+
+.btn3{
+    width: 154px;
+    height: 40px;
+}
+
+.bdirectangle{
+    width: 80%;
+    height: 70%;
+}
+
+.photo{
+    width: 359.21px;
+    height: 345.81px;
+}
+
+.photo img{
+    width: 100%;
+    height: 268.67px;
+}
+
+.btn4{
+    width: 172px;
+    height: 46px;
+    background: transparent;
+    color: white;
+    border: 1px solid #F16650;
+    border-radius: 3px;
+}
+
+.btn4:hover{
+    background-color: #F16650;
+    transition: 400ms;
+}
+
+.end{
+    width: 100%;
+    height: 30vh;
+    background-color: #181818;
+}
+
+.endbox{
+  width: 1076px;
+  height: 327px;
+  background-color: #F16650;
+}
+
+.par h1{
+    width: 326px;
+    height: 104px;
+    white-space: wrap;
+}
+
+.par p{
+    width: 461px;
+    height: 51px;
+    white-space: wrap;
+}
+
+.endbox button{
+    width: 149px;
+    height: 40px;
+    background-color: white;
+    color: #F16650;
+    border: 1px solid white;
+    border-radius: 2px;
+    margin-top: 2rem;
+}
